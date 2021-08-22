@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.bg-color{
+	background-color: activecaption;
+	text-align:center;
+		
+}
+
+input{
+	border-radius: 20px;
+	border-width:0px;
+	height: 40px;
+	width: 200px;	
+	text-align: center;
+}
